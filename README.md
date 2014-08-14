@@ -2,7 +2,9 @@
 
 ## About me
 Junior Web developer with commercial experience in developing MVP's for startups and creating internal automated systems for established companies. 
+
 My technical foundation was formed at Makers Academy, a 12 week course designed to turn non-technical professionals into professional web developers
+
 I primarily tools are Ruby on Rails, BDD using Cucumber and Capybara, Unit testing using RSpec, JavaScript and JQuery, Git for version control, Heroku for hosting, HTML5 and CSS3
 
 ## Technical Experience
